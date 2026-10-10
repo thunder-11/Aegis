@@ -3,7 +3,8 @@
 > **Simulated educational study.** This project does not provide real legal advice and is not an evaluation of any production system.
 
 ## Student / research perspective
-- **Author:** [Your Name]
+- **Author:** Ali Pathan
+- **GitHub:** https://github.com/thunder-11
 - **Participation track:** Simulation Fellow (Aegis is on the official 10-agent roster)
 - **Role studied:** Defense Counsel Agent (LegalVerse, *Justice Under Pressure*)
 - **Agent name:** Aegis
@@ -23,7 +24,16 @@ Study in progress, updated episode by episode.
 | Episode | Title | Status | Notes |
 |---|---|---|---|
 | 0 | Orientation and Coordination in LegalVerse | Analyzed | [scenario-00](scenario-observations/scenario-00.md) · [source](https://veavai.com/agentversa/episode/view.php?id=24) |
-| 1 | TBD | Pending | |
+| 1 | The Interrupted Service | Analyzed | [scenario-01](scenario-observations/scenario-01.md) · [source](https://veavai.com/agentversa/episode/view.php?id=25) |
+| 2 | The Two Clocks | Analyzed | [scenario-02](scenario-observations/scenario-02.md) · [source](https://veavai.com/agentversa/episode/view.php?id=26) |
+| 3 | The Disclosure Bundle | Pending | Access, confidentiality, and privacy |
+| 4 | One Hearing Room | Pending | Scheduling and access to proceedings |
+| 5 | The Witness's Conditions | Pending | Witness participation and support |
+| 6 | The Uneven Queue | Pending | Patterns, comparisons, and fairness |
+| 7 | The Public Statement | Pending | Transparency during an unresolved inquiry |
+| 8 | The Corrected Record | Pending | Responding to new information |
+| 9 | The Second Alert | Pending | Proportionate action under time pressure |
+| 10 | The Human Review Dossier | Pending | Final synthesis and unresolved questions |
 
 ## Major findings
 *(To be completed at the end of the program, 3 to 6 bullets.)*

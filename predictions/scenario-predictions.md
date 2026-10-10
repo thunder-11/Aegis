@@ -27,3 +27,13 @@ Based on Aegis's Version 1 design, the observed information-gathering behavior i
 - **What information might it prioritize?**
 - **Where might it disagree with another role?**
 - **What behavior or failure risk should I watch for?**
+
+---
+
+## Scenario 02: The Two Clocks
+**Prediction date:** Not applicable — no advance scenario packet was released before results, so no prediction was possible.
+
+- **What might my agent do?**
+- **What information might it prioritize?**
+- **Where might it disagree with another role?**
+- **What behavior or failure risk should I watch for?**
