@@ -17,3 +17,13 @@ No prediction was recorded before reviewing the Scenario 0 episode.
 Because no prediction was recorded before reviewing the episode, the following is a reflection rather than a prediction:
 
 Based on Aegis's Version 1 design, the observed information-gathering behavior is consistent with its emphasis on evidence reliance, identifying information gaps, and protecting the client's interests. However, this observation should not be treated as evidence of a stable behavioral pattern because Scenario 0 was an orientation scenario with no substantive case facts.
+
+---
+
+## Scenario 01: The Interrupted Service
+**Prediction date:** Not applicable — no advance scenario packet was released before results, so no prediction was possible.
+
+- **What might my agent do?**
+- **What information might it prioritize?**
+- **Where might it disagree with another role?**
+- **What behavior or failure risk should I watch for?**
