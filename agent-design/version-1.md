@@ -3,7 +3,8 @@
 > Preserved before any simulation results were known. **Do not edit after results are published.** Propose changes in `version-2-proposal.md`.
 > Items marked *(inferred)* are my own reading of the design. Confirm them against what you submitted in AgentVersa.
 
-**Version date:** [YYYY-MM-DD]
+**Version date:** 2026-09-25
+**Note:** The date above is the Scenario 0 kickoff date; Version 1 was submitted before that.
 
 ## Agent name and role
 - **Agent name:** Aegis
