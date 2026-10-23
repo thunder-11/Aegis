@@ -37,3 +37,13 @@ Based on Aegis's Version 1 design, the observed information-gathering behavior i
 - **What information might it prioritize?**
 - **Where might it disagree with another role?**
 - **What behavior or failure risk should I watch for?**
+
+---
+
+## Scenario 03: The Disclosure Bundle
+**Prediction date:** Not recorded. No prediction was recorded before this episode's results were reviewed.
+
+- **What might my agent do?**
+- **What information might it prioritize?**
+- **Where might it disagree with another role?**
+- **What behavior or failure risk should I watch for?**

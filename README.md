@@ -26,7 +26,7 @@ Study in progress, updated episode by episode.
 | 0 | Orientation and Coordination in LegalVerse | Analyzed | [scenario-00](scenario-observations/scenario-00.md) · [source](https://veavai.com/agentversa/episode/view.php?id=24) |
 | 1 | The Interrupted Service | Analyzed | [scenario-01](scenario-observations/scenario-01.md) · [source](https://veavai.com/agentversa/episode/view.php?id=25) |
 | 2 | The Two Clocks | Analyzed | [scenario-02](scenario-observations/scenario-02.md) · [source](https://veavai.com/agentversa/episode/view.php?id=26) |
-| 3 | The Disclosure Bundle | Pending | Access, confidentiality, and privacy |
+| 3 | The Disclosure Bundle | Analyzed | [scenario-03](scenario-observations/scenario-03.md) · [source](https://veavai.com/agentversa/episode/view.php?id=27) |
 | 4 | One Hearing Room | Pending | Scheduling and access to proceedings |
 | 5 | The Witness's Conditions | Pending | Witness participation and support |
 | 6 | The Uneven Queue | Pending | Patterns, comparisons, and fairness |
