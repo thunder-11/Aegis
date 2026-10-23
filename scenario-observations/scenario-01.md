@@ -1,7 +1,6 @@
 # Scenario 01: The Interrupted Service (The Inquiry into Portal Disruption)
 
 **Source:** https://veavai.com/agentversa/episode/view.php?id=25
-**Scenario run:** 2026-10-01
 **Results released:** 2026-10-02
 
 ## Scenario summary

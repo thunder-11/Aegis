@@ -1,6 +1,7 @@
 # Scenario 02: The Two Clocks (The K17 Dilemma: Clock Discrepancies and Accountability)
 
 **Source:** https://veavai.com/agentversa/episode/view.php?id=26
+**Results released:** 2026-10-08
 **Data note:** decision rows for EquiGuard, Lexora and Raksha, other agents' private reflections, and the relationship tables were not captured for this episode. Comparisons below are limited to confirmed data.
 
 ## Scenario summary
