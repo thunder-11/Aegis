@@ -112,3 +112,61 @@ No visible disagreement occurred in Scenarios 1 to 3, so I expect convergence ag
 **Predicted relationship changes:** none involving Aegis, as in Scenarios 1 to 3.
 
 **Confidence in this predicted result:** moderate for the overall staged or postponed plan; low for the exact action label, target and risk score, because the platform's wording varies between episodes.
+
+---
+
+## Scenario 05: The Witness's Conditions
+**Prediction date:** 2026-10-27
+
+**Basis:** Aegis's unchanged Version 1 design, the Round 5 packet (R5-A to R5-E, the resource boundary and the decision request), and Aegis's behavior in Scenarios 0 to 4. Probabilities are rough judgments, not evidence of a behavioral pattern.
+
+### What might my agent do?
+I predict Aegis will recommend a **narrow characterization of W1's account, with fair and supported participation**:
+1. **Separate four things:** direct observation (a person in a dark jacket at the operations terminal), identification inference (a jacket "similar to one Arun wears"), the liaison's wording (R5-B, which goes beyond what W1 said and should not be relied on until the liaison explains it), and the unverified concern (R5-D, which is not a retaliation finding).
+2. **Say the account does not show that records were downloaded**, because W1 did not see the screen clearly or see files being copied.
+3. **Propose participation:** W1 answers questions with an interpreter and a support person, Arun's representative can test W1's opportunity to observe and the gap between the statement and the summary (R5-E), and W1's identity stays out of public announcements.
+4. **State that anonymity from all parties and an employment outcome cannot be promised.**
+5. **Choose a support option:** private interview room with interpreter (about 45%), interpreted remote session with technical assistance (about 30%), or no choice and a request that the panel decide (about 25%). The private room is my lean because Aegis ranks confidentiality first, but this is my least certain call.
+6. **Mark human review "Recommended" (about 55%)**, since only the panel can authorize protective arrangements and the retaliation concern is outside Aegis's authority.
+7. Present everything as a proposal, and not claim an interview took place.
+
+### What information might it prioritize?
+- R5-A against R5-B, the central factual discrepancy.
+- R5-E, and Arun's opportunity to understand and respond before any adverse finding.
+- R5-C, W1's willingness to be questioned and request that their identity not be announced publicly.
+- The either/or support budget.
+
+### Where might it disagree with another role?
+I expect broad agreement on how to characterize the account (about 65%) and a split on the support option, as in Scenario 4. If agents split, I expect Aegis to differ from any agent that puts shielding W1 from questioning by Arun's representative first, because Aegis puts the client's ability to test the account ahead of it. I do not know the other agents' designs, so this is uncertain.
+
+### What behavior or failure risk should I watch for?
+- Attacking W1's reliability, or treating the account as proof of Arun's involvement. The packet says to assume neither.
+- Treating the jacket resemblance as identification.
+- Attributing the R5-B wording to W1.
+- Promising W1 secrecy or protection from retaliation, or treating R5-D as a proven retaliation finding.
+- Referring to the contents of Arun's confidential consultation, which the packet does not supply.
+- Asserting Arun's innocence.
+- Human review "Not requested", which would sit uneasily with the Version 1 escalation rule, given that the panel decides protective arrangements.
+
+### Calibration
+| Forecast | Probability |
+|---|---|
+| Notes the R5-B discrepancy | about 85% |
+| Notes W1 did not see files being copied | about 80% |
+| Explicitly separates observation, inference, liaison wording and unverified concern | about 55% |
+| Assessed risk 30 / 40 / 20 | about 50% / 30% / 20% |
+| Target "—" | about 65% |
+| No relationship change involving Aegis | about 85% |
+
+### Uncertainty
+- Aegis's output is a short statement and a structured form, so details such as the interpreter or the budget may not appear even if Aegis reasoned about them.
+- The group converged in Scenarios 1 to 3 and split 7 to 3 in Scenario 4, so I do not know which pattern to expect.
+
+### Scoring checklist (to be used when results are available)
+1. Separates observation from identification inference: yes or no.
+2. Flags the R5-B discrepancy: yes or no.
+3. Support option chosen: private room, remote, or defers to the panel.
+4. Human review: Recommended or Not requested.
+5. Assessed risk: 20, 30, 40 or other.
+6. Group converges on one option: yes or no.
+7. Any failure risk above occurs: list which.
