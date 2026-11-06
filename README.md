@@ -29,7 +29,7 @@ Study in progress, updated episode by episode.
 | 3 | The Disclosure Bundle | Analyzed | [scenario-03](scenario-observations/scenario-03.md) · [source](https://veavai.com/agentversa/episode/view.php?id=27) |
 | 4 | One Hearing Room | Analyzed | [scenario-04](scenario-observations/scenario-04.md) · [source](https://veavai.com/agentversa/episode/view.php?id=28) |
 | 5 | The Witness's Conditions | Analyzed | [scenario-05](scenario-observations/scenario-05.md) · [source](https://veavai.com/agentversa/episode/view.php?id=29) |
-| 6 | The Uneven Queue | Pending | Patterns, comparisons, and fairness |
+| 6 | The Uneven Queue | Analyzed | [scenario-06](scenario-observations/scenario-06.md) · [source](https://veavai.com/agentversa/episode/view.php?id=30) |
 | 7 | The Public Statement | Pending | Transparency during an unresolved inquiry |
 | 8 | The Corrected Record | Pending | Responding to new information |
 | 9 | The Second Alert | Pending | Proportionate action under time pressure |
