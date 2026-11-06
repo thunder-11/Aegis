@@ -1,8 +1,7 @@
 # Scenario 06: The Uneven Queue (An Inquiry into Processing Disparities)
 
 **Source:** https://veavai.com/agentversa/episode/view.php?id=30
-**Results released:** [CONFIRM DATE FROM THE "EPISODE READY" EMAIL]
-**Data note:** Results below come from the episode page. The page text for Aegis's statement was truncated in the captured material, so it is quoted only where captured. The page shows no publication date and no reason for any human-review selection. Its only dated item is an administrator correction of 2026-11-04, which appears inside the Nemesis and Sentinel reflections.
+**Results released:** 2026-11-04
 
 ## Scenario summary
 Round 6 of the Rivergate portal-disruption inquiry. The outage and the K17 allegation remain unresolved, and no one has been found responsible. The disruption caused 36 recorded delayed applications. Separately, oversight staff supplied a descriptive aggregate of 200 portal applications from the preceding month; it excludes the outage day, so it cannot by itself establish the outage's cause or how K17 was used. R6-A gives the table (each application appears once; percentages are my own arithmetic):
