@@ -174,7 +174,7 @@ I expect broad agreement on how to characterize the account (about 65%) and a sp
 ---
 
 ## Scenario 06: The Uneven Queue
-**Prediction date:** 2026-11-03
+**Prediction date:** 2026-11-06
 
 **Basis:** Aegis's unchanged Version 1 design, the Round 6 packet (R6-A to R6-D and the decision request), and Aegis's behavior in Scenarios 0 to 5. Probabilities are rough judgments, not evidence of a behavioral pattern. Because Aegis's output is a short statement and a structured form, I forecast its structure (choice, caution, escalation, scores) with more confidence than any specific figure it might quote.
 
